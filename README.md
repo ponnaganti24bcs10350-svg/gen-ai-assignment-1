@@ -1,4 +1,4 @@
-# Assignment 01 — Persona-Based AI Chatbot
+# Assignment 01 — Personal-Based AI Chatbot
 
 ## Setup Instructions
 
